@@ -146,7 +146,7 @@ input[type=submit] {
   
 
 /* Mobile */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
 
     .allcontent {
         height: max-content;
@@ -206,7 +206,7 @@ input[type=submit] {
         display: block;
         float: right;
         margin-right: 10vw;
-        margin-top: 33vh;
+        margin-top: 35vh;
         height: 1em;
     }
 
@@ -266,7 +266,7 @@ input[type=submit] {
     
     .right {
         margin-top: 0.5em;
-        margin-bottom: 1em;
+        margin-bottom: 2em;
         font-weight: 500;
         color: black; 
         padding-right: 4vw;
