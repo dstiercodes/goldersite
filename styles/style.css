@@ -146,7 +146,7 @@ input[type=submit] {
   
 
 /* Mobile */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 
     .allcontent {
         height: max-content;
