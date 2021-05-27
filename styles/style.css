@@ -206,7 +206,7 @@ input[type=submit] {
         display: block;
         float: right;
         margin-right: 10vw;
-        margin-top: 40vh;
+        margin-top: 42vh;
         height: 1em;
     }
 
@@ -266,7 +266,7 @@ input[type=submit] {
     
     .right {
         margin-top: 0.5em;
-        margin-bottom: 1.5em;
+        margin-bottom: 1.2em;
         font-weight: 500;
         color: black; 
         padding-right: 3.5vw;
