@@ -280,6 +280,7 @@ input[type=submit] {
     }
     
     .email {
+        -webkit-appearance: none;
         font-size: 3vw;
         background-color: #7EA9CA;
         color: black;
@@ -296,6 +297,7 @@ input[type=submit] {
     }
 
     input[type=submit] {
+        -webkit-appearance: none;
         font-size: 2.8vw;
         text-align: center;
         width: max-content;
